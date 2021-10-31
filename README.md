@@ -1,6 +1,6 @@
 # Visualize sorting algorithms
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ductnn/sorting_algorithm/pulls) [![license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ductnn/sorting_algorithm/pulls) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A simple python application to visualize sorting algorithms.
 
@@ -64,7 +64,7 @@ With `javascript`, **...Updating...**
 
 ## Usage
 
-With `python`:
+With `python`, follow `command`:
 
 ```bash
 python3 visualize_python.py
